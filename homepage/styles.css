@@ -1,0 +1,66 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.blue {
+    background-color: cornflowerblue;
+}
+
+.bg {
+    background-image: url("manhattan2.jpeg");
+    background-attachment: fixed;
+
+    height: 75vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bg2 {
+    background-image: url("manhattan.jpeg");
+    background-attachment: fixed;
+
+    height: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .nyhead {
+        font-size: 3.5em;
+        margin-top: 5%;
+    }
+
+.nyhead2 {
+        font-size: 3.5em;
+        margin-top: 10%;
+    }
+
+.whiteshadow {
+         color: white;
+        text-shadow: 2px 2px 4px black;
+    }
+
+.align-middle {
+        margin-top: 15%;
+    }
+
+ p {
+    text-indent: 30px;
+    text-align: left;
+    font-size
+ }
+p2 {
+    text-indent: 30px;
+    text-align: left;
+    font-size: 0.7em;
+ }
+.main {
+    background-color: cornflowerblue;
+    margin-top: 42%;
+    padding: 50px;
+}
+h1 {
+    color: white;
+}
